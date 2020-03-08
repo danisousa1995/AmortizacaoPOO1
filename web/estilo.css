@@ -1,0 +1,19 @@
+/*===============MENU===============*/
+.menu ul {
+width: 100%; 
+float: left; 
+list-style: none;
+}
+
+.menu li {
+padding: 1.5%;
+float: left;
+}
+	
+.menu li a{
+font-size: 20px;
+color: black;}
+ 
+
+	
+
